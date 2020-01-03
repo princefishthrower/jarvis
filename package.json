@@ -1,0 +1,14 @@
+{
+  "name": "jarvis",
+  "version": "1.0.0",
+  "description": "Your personal helper of course",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Christopher Frewin",
+  "license": "ISC",
+  "dependencies": {
+    "google-speech": "0.0.5"
+  }
+}
